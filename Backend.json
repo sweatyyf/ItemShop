@@ -38,13 +38,13 @@
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat", "CosmeticVariantToken:VTID_071_NeonCat_StageB", "CosmeticVariantToken:VTID_071_NeonCat_StageC", "CosmeticVariantToken:VTID_071_NeonCat_StageD", "CosmeticVariantToken:VTID_071_NeonCat_StageE", "CosmeticVariantToken:VTID_071_NeonCat_StageF"
+            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat"
         ],
-        "price": 2000
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_287_Athena_Commando_M_ArcticSniper", "CosmeticVariantToken:VTID_063_ArcticSniper_StageB", "CosmeticVariantToken:VTID_063_ArcticSniper_StageC", "CosmeticVariantToken:VTID_063_ArcticSniper_StageD",
+            "AthenaCharacter:CID_287_Athena_Commando_M_ArcticSniper"
         ],
         "price": 1200
     }

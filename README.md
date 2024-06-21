@@ -1,5 +1,5 @@
-CID_286_Athena_Commando_F_NeonCat, 2000
-CID_287_Athena_Commando_M_ArcticSniper, 2000
+CID_286_Athena_Commando_F_NeonCat, 1500
+CID_287_Athena_Commando_M_ArcticSniper, 1200
 na
 na
 na

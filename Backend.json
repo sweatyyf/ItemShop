@@ -2,56 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_123_Athena_Commando_F_Metal"
+            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
         ],
-        "price": 1200
+        "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_049_Metal"
+            "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_259_Athena_Commando_M_StreetOps"
+            "AthenaCharacter:CID_329_Athena_Commando_F_SnowNinja"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_DreamFeet"
+            "AthenaDance:EID_WristFlick"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_078_SlurpJuice"
+            "AthenaItemWrap:Wrap_006_Ice"
         ],
-        "price": 700
+        "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_073_Medic"
+            "AthenaGlider:Glider_ID_113_Barbarian"
         ],
-        "price": 800
+        "price": 400
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"
+            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat", "CosmeticVariantToken:VTID_071_NeonCat_StageB", "CosmeticVariantToken:VTID_071_NeonCat_StageC", "CosmeticVariantToken:VTID_071_NeonCat_StageD", "CosmeticVariantToken:VTID_071_NeonCat_StageE", "CosmeticVariantToken:VTID_071_NeonCat_StageF"
         ],
-        "price": 1200
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"
+            "AthenaCharacter:CID_287_Athena_Commando_M_ArcticSniper", "CosmeticVariantToken:VTID_063_ArcticSniper_StageB", "CosmeticVariantToken:VTID_063_ArcticSniper_StageC", "CosmeticVariantToken:VTID_063_ArcticSniper_StageD",
         ],
         "price": 1200
-    },
-    "featured3": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_370_BlueFlames"
-        ],
-        "price": 800
     }
 }

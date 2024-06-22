@@ -1,12 +1,12 @@
-CID_286_Athena_Commando_F_NeonCat, 1500
-CID_287_Athena_Commando_M_ArcticSniper, 1200
+CID_226_Athena_Commando_F_Octoberfest, 2000
+CID_225_Athena_Commando_M_Octoberfest, 2000
 na
 na
 na
 na
-CID_245_Athena_Commando_F_DurrburgerPjs, 1500
-CID_329_Athena_Commando_F_SnowNinja, 1200
-Pickaxe_ID_140_StreetGoth, 800
-EID_WristFlick, 500
-Glider_ID_113_Barbarian, 400
-Wrap_006_Ice, 500
+CID_158_Athena_Commando_F_StarsAndStripes, 800
+CID_157_Athena_Commando_M_StarsAndStripes, 800
+Pickaxe_ID_263_JonesyCube, 1500
+EID_Basketball, 500
+EID_CrackshotDance, 800
+Umbrella_Season_05, 500

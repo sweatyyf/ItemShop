@@ -1,12 +1,12 @@
-CID_226_Athena_Commando_F_Octoberfest, 2000
-CID_225_Athena_Commando_M_Octoberfest, 2000
+CID_703_Athena_Commando_M_Cyclone, 1500
+CID_761_Athena_Commando_M_CycloneSpace, 2000
 na
 na
 na
 na
-CID_158_Athena_Commando_F_StarsAndStripes, 800
-CID_157_Athena_Commando_M_StarsAndStripes, 800
-Pickaxe_ID_263_JonesyCube, 1500
-EID_Basketball, 500
-EID_CrackshotDance, 800
-Umbrella_Season_05, 500
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
+CID_753_Athena_Commando_F_Hostile, 1200
+Pickaxe_ID_074_SharpDresser, 800
+EID_ArtGiant, 500
+EID_Twist, 500
+Glider_ID_110_TeriyakiFish, 800

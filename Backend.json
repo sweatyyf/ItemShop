@@ -14,7 +14,7 @@
     },
     "daily3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_TracePaper", "AthenaBackpack:Backpack_TracePaper"
+            "AthenaDance:EID_LasagnaDance"
         ],
         "price": 500
     },

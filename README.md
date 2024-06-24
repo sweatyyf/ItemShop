@@ -1,12 +1,12 @@
-CID_143_Athena_Commando_F_DarkNinja, 1500
-CID_141_Athena_Commando_M_DarkEagle, 1500
-Pickaxe_ID_059_DarkEagle, 800
+CID_582_Athena_Commando_F_DarkDino, 1200
+CID_581_Athena_Commando_M_DarkDino, 1200
+Pickaxe_ID_295_DarkDino1H, 800
+MusicPack_039_Envy, 200
 na
 na
-na
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
-CID_598_Athena_Commando_M_Mastermind, 1500
-BID_028_SpaceBlack, 1000
-Pickaxe_ID_300_Mastermind, 800
-EID_EgyptianDance, 400
-Glider_ID_110_TeriyakiFish, 800
+CID_416_Athena_Commando_M_AssassinSuit, 2000
+CID_050_Athena_Commando_M_HolidayNutcracker, 2000
+Wrap_080_Blackout1, 500
+Pickaxe_TracePaper, 500
+EID_CrackshotClock, 500
+Glider_ID_186_GalileoFerry_48L4V, 1200

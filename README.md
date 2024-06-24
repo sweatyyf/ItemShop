@@ -7,6 +7,6 @@ na
 CID_416_Athena_Commando_M_AssassinSuit, 2000
 CID_050_Athena_Commando_M_HolidayNutcracker, 2000
 Wrap_080_Blackout1, 500
-Pickaxe_TracePaper, 500
+EID_LasagnaDance, 500
 EID_CrackshotClock, 500
 Glider_ID_186_GalileoFerry_48L4V, 1200

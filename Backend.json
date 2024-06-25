@@ -2,61 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_080_Blackout1"
+            "AthenaGlider:Glider_ID_167_SparkleRemix"
         ],
-        "price": 500
+        "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_416_Athena_Commando_M_AssassinSuit", "AthenaBackpack:BID_271_AssassinSuitMale"
+            "AthenaCharacter:CID_124_Athena_Commando_F_AuroraGlow"
         ],
-        "price": 2000
+        "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_LasagnaDance"
+            "AthenaDance:EID_RunningManv3"
         ],
-        "price": 500
+        "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_CrackshotClock"
+            "AthenaDance:EID_Cry"
         ],
-        "price": 500
+        "price": 0
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker"
+            "AthenaCharacter:CID_240_Athena_Commando_F_Plague"
         ],
-        "price": 2000
+        "price": 0
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_186_GalileoFerry_48L4V"
+            "AthenaPickaxe:Pickaxe_ID_342_GummiMale1H"
         ],
-        "price": 1200
+        "price": 0
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_582_Athena_Commando_F_DarkDino", "AthenaBackpack:BID_383_DarkDinoFemale"
+            "AthenaCharacter:CID_206_Athena_Commando_M_Bling"
         ],
-        "price": 1200
+        "price": 0
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_581_Athena_Commando_M_DarkDino", "AthenaBackpack:BID_382_DarkDinoMale"
+            "AthenaCharacter:CID_195_Athena_Commando_F_Bling"
         ],
-        "price": 1200
+        "price": 0
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_295_DarkDino1H"
+            "AthenaBackpack:BID_235_Heist"
         ],
-        "price": 800    },
-    "featured4": {
-        "itemGrants": [
-            "AthenaMusicPack:MusicPack_039_Envy"
-        ],
-        "price": 200
+        "price": 0
     }
 }
